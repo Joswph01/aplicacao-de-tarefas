@@ -8,7 +8,7 @@ Este projeto é uma aplicação completa de gerenciamento de tarefas (To-Do List
 ✔ localStorage — persistência dos dados
 ✔ CRUD completo — criar, listar, editar e excluir tarefas
 
- Funcionalidades
+ Funcionalidades:
 
 Adicionar novas tarefas
 
